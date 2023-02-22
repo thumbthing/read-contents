@@ -1,2 +1,1 @@
-# read-contents
-Read insight contents
+# Read-contents
